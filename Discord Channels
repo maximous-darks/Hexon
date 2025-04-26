@@ -31,8 +31,8 @@ General
 Media
 Trusted
 Suggestions
-VC 1
-VC 2
+Voice Channel 1
+Voice Channel 2
 Trusted VC
 
 💡 • Support
@@ -42,6 +42,7 @@ Fixes
 Create-A-Ticket
 Report-A-Player
 Report-A-Bug
+Ban Appeal
 Helper Application
 Creator Application
 
@@ -53,16 +54,16 @@ LFG-Squads
 LFG-LTM /
 LFG-Creative /
 LFG-Tournament /
-VC 1 
-VC 2
-VC 3
-VC 4 
-VC 5
-VC 6
-VC 7
-VC 8
-VC 9
-VC 10
+Voice Channel 1 
+Voice Channel 2
+Voice Channel 3
+Voice Channel 4 
+Voice Channel 5
+Voice Channel 6
+Voice Channel 7
+Voice Channel 8
+Voice Channel 9
+Voice Channel 10
 
 🥊 • Competitive /
 
@@ -75,7 +76,7 @@ Current-Rewards
 Boosts
 Chat
 Create-A-Ticket
-Booster VC 
+Booster Voice Channel 
 
 💡 • Helper
 
@@ -85,7 +86,7 @@ Resources
 Fix-Sheet
 Higher-Role-Request
 Helper-Chat
-Helper VC
+Helper Voice Channel
 
 💡 • Lead Helper
 
@@ -93,7 +94,7 @@ Helper-Reviews
 Transcripts
 Lead-Helper-Info
 Lead-Helper-Chat
-Lead Helper VC
+Lead Helper Voice Channel
 
 🎥 • Content Creator
 
@@ -101,14 +102,14 @@ Videos
 Video-Of-The-Week
 Content-Creator-Info
 Content-Creator-Chat
-Content Creator VC
+Content Creator Voice Channel
 
 🎮 • Playtesting
 
 Sessions
 Playtesting-Info
 Playtesting-Chat
-Playtesting VC
+Playtesting Voice Channel
 
 🔒 • Moderator
 
@@ -116,7 +117,7 @@ Moderator-Info
 HexonMP-Team
 Backend-Ban-Request
 Moderator-Chat
-Moderator VC
+Moderator Voice Channel
 
 📝 • Staff
 
@@ -129,9 +130,8 @@ Ban-Logs
 Helper-Application-Submissions
 Content-Creator-Application-Submissions
 Ban-Appeal-Submissions
-Staff VC
+Staff Voice Channel
 🎫 • Tickets
-
 
 🎫 • Player Reports
 
